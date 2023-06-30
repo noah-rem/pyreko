@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+pyReko/__init__.py
+pyReko.egg-info/PKG-INFO
+pyReko.egg-info/SOURCES.txt
+pyReko.egg-info/dependency_links.txt
+pyReko.egg-info/top_level.txt
